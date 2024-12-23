@@ -19,7 +19,7 @@ This will be subdivided into multiple projects once the precice plans are there.
 > - CAD files
 > - partial P&ID
 > - Market analysis
-> - Production materials for production start (Minus ~€5k)
+> - Production materials for production start (minus ~€5k)
 
 > Base requirements for physical automization start (birdseye view):
 > - Supply Chain Management
