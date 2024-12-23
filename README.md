@@ -21,7 +21,7 @@ This will be subdivided into multiple projects once the precice plans are there.
 > - Market analysis
 > - Production materials for production start (Minus ~€5k)
 
-> Base requirements for automization start (birdseye view):
+> Base requirements for physical automization start (birdseye view):
 > - Supply Chain Management
 > - Legal
 > - Operations
