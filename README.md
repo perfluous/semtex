@@ -47,4 +47,4 @@ Here a test with AutoGen will be run in order to test the feasability of a later
 ### ...
 
 
-## ..
+## .. Add Code2Vector, bookWriter, 3DHub, NeoMaltego, AutoGenT, HTBOpenScr, AxisConversion, Material Science proj, RaceWarsGame, RTT, UnitOperationsFW, NSResearch(?), Mathematics learning.
