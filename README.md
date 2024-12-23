@@ -21,7 +21,7 @@ Currently there are:
 - Market analysis
 - Production materials for production start (Minus ~€5k)
 
-Base requirements (birdseye view):
+Base requirements for automization start (birdseye view):
 - Supply Chain Management
 - Legal
 - Operations
