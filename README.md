@@ -10,7 +10,7 @@ This is a huge project and before anything I must get my dotfiles in order, gene
 Mushroom cultivation, pro-biotics brewing. Will in the future become an automated system.
 Starts with selling mushrooms, wil grow towards extracting supplemental, medicinal, and <REDACTED> compounds.
 This will be subdivided into multiple projects once the precice plans are there.
-Currently there are:
+> Currently there are:
 - documents
   - growtypes
   - compounds
