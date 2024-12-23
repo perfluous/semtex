@@ -11,29 +11,29 @@ Mushroom cultivation, pro-biotics brewing. Will in the future become an automate
 Starts with selling mushrooms, wil grow towards extracting supplemental, medicinal, and <REDACTED> compounds.
 This will be subdivided into multiple projects once the precice plans are there.
 > Currently there are:
-- documents
-  - growtypes
-  - compounds
-  - brewing specifics
-  - etc
-- CAD files
-- partial P&ID
-- Market analysis
-- Production materials for production start (Minus ~€5k)
+> - documents
+>   - growtypes
+>   - compounds
+>   - brewing specifics
+>   - etc
+> - CAD files
+> - partial P&ID
+> - Market analysis
+> - Production materials for production start (Minus ~€5k)
 
-Base requirements for automization start (birdseye view):
-- Supply Chain Management
-- Legal
-- Operations
-- Food Safety
-- Environmental Management
-- Quality Assurance
-- Research And Development
-- IT
-- Finance
-- Engineering
-- Project Management
-- Marketing
+> Base requirements for automization start (birdseye view):
+> - Supply Chain Management
+> - Legal
+> - Operations
+> - Food Safety
+> - Environmental Management
+> - Quality Assurance
+> - Research And Development
+> - IT
+> - Finance
+> - Engineering
+> - Project Management
+> - Marketing
 
 ## SEMTEX: ROME
 ### CustosMemoriam
