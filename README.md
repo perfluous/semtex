@@ -37,7 +37,7 @@ This will be subdivided into multiple projects once the precice plans are there.
 
 ## SEMTEX: ROME
 ### CustosMemoriam
-Aims to gather historical data from local sources. First from Dutch local sources and later, European sources. The plan is to implement a (currently testing) system which will insentanvice historias and hobbyists to transcribe their found documents cheaply and easily.
+Aims to gather historical data from local sources. First from Dutch local sources and later, European sources. The plan is to implement a (currently testing) system which will insentanvice historians and hobbyists to transcribe their found documents cheaply and easily.
 Unlike Transkribus, this data will be made public and open-source (if allowed).
 This will then be added to vector database (ChromaDB), which will be attached to the CustosMemoriam LLM. Once a proper error rate has been achieved, it will be published together with the data source to aid in research for resaerchers, hobbyists, and professionals.
 Here a test with AutoGen will be run in order to test the feasability of a later project.
