@@ -1,5 +1,5 @@
 # SEMTEX
-SEMTEX is one of several overarching projects. It aims to converge several large unrelated projects into multiple converging systems.
+SEMTEX is one of several overarching projects. It aims to combine several large semi-unrelated projects into a converging system.
 Several projects aim to create research services and/or new markets. Others aim to increase quality of life in general.
 For example, specifically aiming for an increase in neuroplasticity, dopamine release, androgenic activity, and adaptogenic effects. While at the same time being anticarcinogtic, anti-infammator.
 This will then be marketed together with <REDACTED> to create a demand for <REDACTED>. This in turn will increase supplement testing, and bring a cheap way for people to masure their current health status. Which will bring a huge boost in (anonymised) health data.
