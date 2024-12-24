@@ -2,13 +2,13 @@
 SEMTEX is one of several overarching projects. It aims to combine several large semi-unrelated projects into a converging system.
 Several projects aim to create research services and/or new markets. Others aim to increase quality of life in general.
 For example, specifically aiming for an increase in neuroplasticity, dopamine release, androgenic activity, and adaptogenic effects. While at the same time being anticarcinogtic, anti-infammatory.
-This will then be marketed together with <PROPRIETARY> to create a demand for <PROPRIETARY>. This in turn will increase supplement testing, and bring a cheap way for people to masure their current health status. Which will bring a huge boost in (anonymised) health data.
-This would allow research into the effectiveness and amount of producable <REDACTED> and could possibly be combined with the extraction of the former, increasing the yield.
+This will then be marketed together with \<PROPRIETARY\> to create a demand for \<PROPRIETARY\>. This in turn will increase supplement testing, and bring a cheap way for people to masure their current health status. Which will bring a huge boost in (anonymised) health data.
+This would allow research into the effectiveness and amount of producable \<REDACTED\> and could possibly be combined with the extraction of the former, increasing the yield.
 
 This is a huge project and before anything I must get my dotfiles in order, generate income for the server, complete AutoGen and dotfiles (semtex-spikelr).
 ## SEMTEX: CustosMycetorum
 Mushroom cultivation, pro-biotics brewing. Will in the future become an automated system.
-Starts with selling mushrooms, wil grow towards extracting supplemental, medicinal, and <REDACTED> compounds.
+Starts with selling mushrooms, wil grow towards extracting supplemental, medicinal, and \<REDACTED\> compounds.
 This will be subdivided into multiple projects once the precice plans are there.
 > Currently there are:
 > - documents
