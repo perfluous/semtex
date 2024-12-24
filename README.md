@@ -5,7 +5,8 @@ For example, specifically aiming for an increase in neuroplasticity, dopamine re
 This will then be marketed together with \<PROPRIETARY\> to create a demand for \<PROPRIETARY\>. This in turn will increase supplement testing, and bring a cheap way for people to masure their current health status. Which will bring a huge boost in (anonymised) health data.
 This would allow research into the effectiveness and amount of producable \<REDACTED\> and could possibly be combined with the extraction of the former, increasing the yield.
 
-This is a huge project and before anything I must get my dotfiles in order, generate income for the server, production materials, complete AutoGen and dotfiles (semtex-spikelr).
+This is a huge project and before anything else I must generate income for the server, production materials, complete AutoGen and dotfiles (semtex-spikelr). From this the projects' work requirements will plateau. The cost of IP generation will reduce significantly, most projects and post-projects will be easily automated.
+
 ## SEMTEX: CustosMycetorum
 Mushroom cultivation, pro-biotics brewing. Will in the future become an automated system.
 Starts with selling mushrooms, wil grow towards extracting supplemental, medicinal, and \<REDACTED\> compounds.
