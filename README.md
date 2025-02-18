@@ -1,3 +1,5 @@
+# SEMTEX RETURNED.
+
 # SEMTEX
 SEMTEX is one of several overarching projects. It aims to combine several large semi-unrelated projects into a converging system.
 Several projects aim to create research services and/or new markets. Others aim to increase quality of life in general.
@@ -49,4 +51,4 @@ Here a test with AutoGen will be run in order to test the feasability of a later
 
 
 ## .. 
-##### Add ~~Code2Vector(T2C & SpikeMR)~~, bookWriter, 3DHub, NeoMaltego, AutoGenT, HTBOpenScr, AxisConversion, Material Science proj, RaceWarsGame, RTT, UnitOperationsFW, NSResearch(?), Mathematics learning.
+##### Add ~~Code2Vector(T2C & SpikeMR)~~, bookWriter, 3DHub, NeoMaltego, AutoGenT, HTBOpenScr, AxisConversion, Material Science proj, RaceWarsGame, RTT, UnitOperationsFW, ~~NSResearch(?)~~, Mathematics learning.
